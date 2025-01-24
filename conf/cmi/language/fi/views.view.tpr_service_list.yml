@@ -34,7 +34,7 @@ display:
         content_translation_status:
           label: Tila
           settings:
-            format_custom_true: Julkaistu
+            format_custom_true: Julkaisematon
             format_custom_false: Julkaisematon
           separator: ', '
         content_translation_changed:

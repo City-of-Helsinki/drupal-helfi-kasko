@@ -41,10 +41,10 @@ display:
           expose:
             label: 'Julkaisun tila'
           group_info:
-            label: Julkaistu
+            label: Julkaisematon
             group_items:
               1:
-                title: Julkaistu
+                title: Julkaisematon
         name:
           expose:
             label: Nimi

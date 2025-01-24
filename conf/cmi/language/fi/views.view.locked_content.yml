@@ -49,7 +49,7 @@ display:
             label: Julkaisutila
             group_items:
               1:
-                title: Julkaistu
+                title: Julkaisematon
         type:
           expose:
             label: Sisältötyyppi

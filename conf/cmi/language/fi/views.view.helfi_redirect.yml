@@ -36,7 +36,7 @@ display:
             label: 'Käyttäjän luoma'
         status:
           expose:
-            label: Julkaistu
+            label: Julkaisematon
       exposed_form:
         options:
           submit_button: Suodata
@@ -67,7 +67,7 @@ display:
           label: 'Käyttäjän luoma'
           separator: ', '
         status:
-          label: Julkaistu
+          label: Julkaisematon
           separator: ', '
       empty:
         area_text_custom:
