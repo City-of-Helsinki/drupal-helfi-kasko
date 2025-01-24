@@ -18,7 +18,7 @@ display:
         status:
           label: Tila
           settings:
-            format_custom_true: Julkaistu
+            format_custom_true: Julkaisematon
             format_custom_false: Julkaisematon
           separator: ', '
         publish_on:
@@ -43,7 +43,7 @@ display:
             label: Julkaisutila
             group_items:
               1:
-                title: Julkaistu
+                title: Julkaisematon
               2:
                 title: Julkaisematon
         langcode:

@@ -22,7 +22,7 @@ display:
           label: Tila
           settings:
             format_custom_false: Julkaisematon
-            format_custom_true: Julkaistu
+            format_custom_true: Julkaisematon
           separator: ', '
         changed:
           label: Päivitetty
@@ -64,7 +64,7 @@ display:
             label: Julkaisutila
             group_items:
               1:
-                title: Julkaistu
+                title: Julkaisematon
               2:
                 title: Julkaisematon
         langcode:

@@ -16,7 +16,7 @@ display:
           label: Tila
           settings:
             format_custom_false: Julkaisematon
-            format_custom_true: Julkaistu
+            format_custom_true: Julkaisematon
         changed:
           label: Päivitetty
         operations:
@@ -52,8 +52,10 @@ display:
           group_info:
             label: Julkaisutila
             group_items:
-              1:
+              -
                 title: Julkaistu
+              -
+                title: Julkaisematon
         langcode:
           expose:
             label: Kieli
